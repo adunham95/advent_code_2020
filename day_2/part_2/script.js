@@ -24,7 +24,7 @@ data.data.forEach(p => {
 
 })
 
-console.log(passwordApprove)
+// console.log(passwordApprove)
 console.log(passwordApprove.length)
 
 function occurrences(string, subString, allowOverlapping) {
